@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 \# RealTimeMarketAlertEngine
 
 
@@ -22,3 +23,6 @@ Anmol Jain
 
 
 
+=======
+# Real-Time-stock-analyser-with-java
+>>>>>>> 13a3d5aca682229633d90b868cf0073e8ddb7de1
